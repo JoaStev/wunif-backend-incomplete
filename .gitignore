@@ -1,0 +1,30 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+dist/
+build/
+
+# Env variables
+.env
+.env.local
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# Logs
+logs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# REST Client responses
+*.http
+*.rest
+
+# Coverage (si usas tests)
+coverage/

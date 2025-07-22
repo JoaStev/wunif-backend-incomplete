@@ -1,0 +1,8 @@
+POST http://localhost:3003/api/contact
+Content-Type: application/json
+
+{
+  "name": "Jeor Jader",
+  "email": "jeor@mail.com",
+  "message": "Hola, este es un mensaje de prueba."
+}
